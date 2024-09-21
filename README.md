@@ -1,5 +1,6 @@
 Priority Todo List Application
-Overview
+
+Overview:
 This app is a user-friendly todo list manager that lets users prioritize tasks through a simple interface.
 
 Key Features
