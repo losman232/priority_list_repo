@@ -9,21 +9,28 @@ Custom greeting: "Hello, [Name]"
 
 2.Easy Task Creation
 Quick input field for tasks
+
 "Add task" button
 
 3.Priority Management
 Tasks organized from "Highest Priority" and "Lowest Priority" 
+
 Drag-and-drop to move tasks between priority levels
 
 4. Task Display
-5.  list of tasks
-Checkbox for marking completion
+ list of tasks.
+
+Checkbox for marking completion.
+
 "Delete" button
 
 How It Works
 Adding Tasks using the input field.
+
 Prioritizing tasks by draging tasks between priority sections.
+
 Mark tasks as complete with a checkbox.
+
 Use the "Delete" button to remove tasks.
 
 
