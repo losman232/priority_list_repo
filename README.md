@@ -5,19 +5,23 @@ This app is a user-friendly todo list manager that lets users prioritize tasks t
 
 Key Features
 1. Personalized Experience
+   
 Custom greeting: "Hello, [Name]"
 
 2.Easy Task Creation
+
 Quick input field for tasks
 
 "Add task" button
 
 3.Priority Management
+
 Tasks organized from "Highest Priority" and "Lowest Priority" 
 
 Drag-and-drop to move tasks between priority levels
 
 4. Task Display
+   
  list of tasks.
 
 Checkbox for marking completion.
