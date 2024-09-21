@@ -1,41 +1,45 @@
 Priority Todo List Application
 
+
 Overview:
+
 This app is a user-friendly todo list manager that lets users prioritize tasks through a simple interface.
 
 Key Features
+
 1. Personalized Experience
    
-Custom greeting: "Hello, [Name]"
+-Custom greeting: "Hello, [Name]"
 
 2.Easy Task Creation
 
-Quick input field for tasks
+-Quick input field for tasks
 
-"Add task" button
+-"Add task" button
 
 3.Priority Management
 
-Tasks organized from "Highest Priority" and "Lowest Priority" 
+-Tasks organized from "Highest Priority" and "Lowest Priority" 
 
-Drag-and-drop to move tasks between priority levels
+-Drag-and-drop to move tasks between priority levels
 
 4. Task Display
    
- list of tasks.
+- list of tasks.
 
-Checkbox for marking completion.
+-Checkbox for marking completion.
 
-"Delete" button
+-"Delete" button
 
 How It Works
-Adding Tasks using the input field.
 
-Prioritizing tasks by draging tasks between priority sections.
+-Adding Tasks using the input field.
 
-Mark tasks as complete with a checkbox.
+-Prioritizing tasks by draging tasks between priority sections.
 
-Use the "Delete" button to remove tasks.
+-Mark tasks as complete with a checkbox.
+
+-Use the "Delete" button to remove tasks.
 
 
 
